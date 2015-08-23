@@ -1,0 +1,38 @@
+1. Conversion -> Type Casting
+2. FactCheck -> Automatic Type Promotion during evaluation of expressions
+3. ArrayTest -> Array Basic
+4. CharArray -> Character Array random program
+5. ArrayVariation -> Different ways to initiate an array
+6. TwoDArray -> Multidimensional array initialization
+7. CompAss -> Compound assignment
+8. IncDec -> Prefix and Postfix Increment and Decrement operators and how they work
+9. TernOp -> Testing out ternary operator ?:
+10. ElIfLad -> Else-If Ladder with a String array
+11. CurKillCat -> Random experiment with the while loop
+12. BasicInput -> Testing out System.in.read()
+13. MulVarLoop -> Loop controlled with multiple variables, comma seperated in the initialization and iteration portion of for loop
+14. ForEachTrial -> Testing out the for-each loop (Extra: Made use of random number generator)
+15. ForEachMul -> For-each loop applied on a multidimensional array
+16. BreakLabel -> Testing out breaks with labels working as goto
+17. BreakLabelLoop -> Testing out breaks with labels to escape nested loops
+18. ContinueTest -> Testing out how continue works
+19. ContinueLabel -> Continue with label in action
+20. IntentionallyBroken -> Trying to force unreachable code errors
+21. [Folder] ClassDemo -> Trial of classes to see how many .class files it creates
+22. ParamDemo -> Method that takes parameters
+23. StackDemo -> Implementation of a stack
+24. MethodOverload -> Testing out overloading of methods (form a polymorphism)
+25. ConstructorDemo -> Overloaded constructors
+26. StaticTest -> Tested order of execution of static objects, explained in comment at the end
+27. InnerDemo -> Tried out inner classes (didn't try static nested classes)
+28. VarArgsDemo -> Trying out method that takes variable number of arguments (VarArgs)
+29. InheritDemo -> Trying out inheritance
+30. MemberAccessInheritance -> Experiment to see how access specifiers affect Inheritance
+31. SuperConstructor -> Using super to call constructor of Superclass from Subclass
+32. UseOfSuper -> Experimenting the second usage of super with the dot operator (Research needed)
+33. MethodOverriding -> Testing if return type factors in "type signature" or just the parameters
+34. AbstractDemo -> Abstract class working test
+35. ObjectClassDemo -> Using methods belonging to Object class which is the superclass to EVERY class
+36. [Folder] PackageDemo -> Created first package
+37. MultiCatch -> Multiple Catch statments with single try
+38. NestTry -> Unintentionally nested try statements with method calling
